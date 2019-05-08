@@ -1,13 +1,13 @@
-Package: com.site.tweakname
+Package: com.kai.dockgobyebye
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: YourName <YourEmail>
-Filename: /TweakName.deb
-Size: (size without ,'s')
-MD5sum: xxxxxxxxxxxx
-SHA1: xxxxxxxxxxxx
-SHA256: xxxxxxxxxxxx
-Section: (Folder Name)
-Description: (What Is This Tweak)
-Author: (Tweak Owner) (Email)
-Name: (NameHere)
+Maintainer: Kai
+Filename: /dockgobyebye.deb
+Size: 2184
+MD5sum: D7F07A29D8FC421F3566887E2EB875AA
+SHA1: A6818E5AFF202D9B95CE741031716867988A4175
+SHA256: CEAFCCCA1B8BDBDD0E1A2ABF4CC9B34FBC00801970EDC4B8559A2ED67866A368
+Section: Tweaks
+Description: Make the dock background disappear.
+Author: Kai
+Name: Dock Go Bye Bye
